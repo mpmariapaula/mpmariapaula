@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Maria!  
+# 👩‍💻 Olá, eu sou a Maria Paula!  
 
 🎓 Professora de TI | 📱 Aprendendo React Native | 💡 Apaixonada por transformar tecnologia em conhecimento acessível  
 
