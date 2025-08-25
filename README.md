@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** PHP, JavaScript  
+- **Linguagens:** PHP
 - **Front-end & Mobile:** React Native, HTML, CSS  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas:** GitHub, Linux  
