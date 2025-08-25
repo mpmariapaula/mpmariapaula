@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍💻 Olá, eu sou a Maria!  
 
-<!--
-**mpmariapaula/mpmariapaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Professora de TI | 📱 Aprendendo React Native | 💡 Apaixonada por transformar tecnologia em conhecimento acessível  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 👩‍🏫 Professora de Tecnologia da Informação, focada em **ensino de programação e inovação digital**  
+- 📚 Atualmente estudando **React Native** para desenvolvimento mobile  
+- 💡 Acredito que ensinar tecnologia é abrir portas para o futuro  
+- 🌱 Sempre explorando novas ferramentas para levar a educação mais longe  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+- **Linguagens:** PHP, JavaScript  
+- **Front-end & Mobile:** React Native, HTML, CSS  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** GitHub, Linux  
+- **Educação:** Metodologias Ativas, EAD, Design Instrucional  
+
+---
+
+## 📫 Vamos nos conectar?  
+- 💼 [LinkedIn](https://linkedin.com/in/maria-souza-889b822a2)  
+- 📧 Email: mariapaula.silva1@outlook.com
