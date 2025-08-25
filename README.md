@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Vamos nos conectar?  
-- 💼 [LinkedIn](https://linkedin.com/in/maria-souza-889b822a2)  
+- 💼 [LinkedIn](https://linkedin.com/in/maria-souza-889b822a3)  
 - 📧 Email: mariapaula.silva1@outlook.com
