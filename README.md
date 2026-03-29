@@ -1,12 +1,12 @@
 # 👩‍💻 Olá, eu sou a Maria Paula!  
 
-🎓 Professora de TI | 📱 Aprendendo React Native | 💡 Apaixonada por transformar tecnologia em conhecimento acessível  
+🎓 Professora de TI | 📱 Aprendendo React | 💡 Apaixonada por transformar tecnologia em conhecimento acessível  
 
 ---
 
 ## 🚀 Sobre mim  
 - 👩‍🏫 Professora de Tecnologia da Informação, focada em **ensino de programação e inovação digital**  
-- 📚 Atualmente estudando **React Native** para desenvolvimento mobile  
+- 📚 Atualmente estudando **React** 
 - 💡 Acredito que ensinar tecnologia é abrir portas para o futuro  
 - 🌱 Sempre explorando novas ferramentas para levar a educação mais longe  
 
